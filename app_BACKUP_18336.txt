@@ -1,0 +1,9 @@
+<<<<<<< f22803060e32725ae60f76e03469e92988b60430
+Change 1----Alice Change
+=======
+Change 1---->Bob changes
+>>>>>>> Bob changes
+Change 2
+Change 3
+Change 4
+Change 5
